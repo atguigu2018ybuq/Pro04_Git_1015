@@ -11,5 +11,7 @@ public class Good {
 	//Edit by Pro04...
 	
 	//edit conflicts
+	
+	//@@@Edit by hotfix @@@
 
 }
